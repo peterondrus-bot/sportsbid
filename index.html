@@ -693,21 +693,40 @@ var I18N = (function () {
     return SUPPORTED.indexOf(nav) !== -1 ? nav : 'en';
   }
 
-  function load() {
-    return fetch('sportsbid-texts.json', { cache: 'no-cache' })
+  /* Copy is split across two files:
+       sportsbid-texts.json — the page's own content
+       text-others.json     — header, menu, footer, design notes
+     Both are merged into one dictionary. If one fails the other still applies. */
+  var FILES = ['sportsbid-texts.json', 'text-others.json'];
+
+  function fetchOne(file) {
+    return fetch(file, { cache: 'no-cache' })
       .then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
       })
-      .then(function (json) { DICT = json; return true; })
       .catch(function (err) {
         console.warn(
-          '[i18n] sportsbid-texts.json could not be loaded (' + err.message + '). ' +
-          'The page stays in English. Serve the file over http:// — opening index.html ' +
-          'directly from disk blocks fetch().'
+          '[i18n] ' + file + ' could not be loaded (' + err.message + '). ' +
+          'Those strings stay in English. Serve the files over http:// — opening ' +
+          'index.html directly from disk blocks fetch().'
         );
-        return false;
+        return null;
       });
+  }
+
+  function load() {
+    return Promise.all(FILES.map(fetchOne)).then(function (parts) {
+      var merged = {}, got = 0;
+      parts.forEach(function (part) {
+        if (!part) return;
+        got++;
+        Object.keys(part).forEach(function (k) { merged[k] = part[k]; });
+      });
+      if (!got) return false;
+      DICT = merged;
+      return true;
+    });
   }
 
   return {

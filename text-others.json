@@ -1,0 +1,197 @@
+{
+  "lang.aria": {
+    "en": "Change language",
+    "sk": "Zmeniť jazyk",
+    "es": "Cambiar idioma"
+  },
+  "header.search": {
+    "en": "Search",
+    "sk": "Hľadať",
+    "es": "Buscar"
+  },
+  "header.login": {
+    "en": "Login",
+    "sk": "Prihlásiť sa",
+    "es": "Iniciar sesión"
+  },
+  "header.signup": {
+    "en": "Sign up free",
+    "sk": "Registrovať sa zadarmo",
+    "es": "Regístrese gratis"
+  },
+  "nav.sport": {
+    "en": "Sport",
+    "sk": "Šport",
+    "es": "Deporte"
+  },
+  "nav.country": {
+    "en": "Country",
+    "sk": "Krajina",
+    "es": "País"
+  },
+  "nav.athlete": {
+    "en": "Athlete",
+    "sk": "Športovec",
+    "es": "Atleta"
+  },
+  "nav.category": {
+    "en": "Category",
+    "sk": "Kategória",
+    "es": "Categoría"
+  },
+  "nav.club": {
+    "en": "Club",
+    "sk": "Klub",
+    "es": "Club"
+  },
+  "nav.organization": {
+    "en": "Organization",
+    "sk": "Organizácia",
+    "es": "Organización"
+  },
+  "nav.event": {
+    "en": "Event",
+    "sk": "Podujatie",
+    "es": "Evento"
+  },
+  "foot.nl.title": {
+    "en": "Subscribe to receive<br>latest news",
+    "sk": "Odoberajte<br>najnovšie správy",
+    "es": "Suscríbase para recibir<br>las últimas noticias"
+  },
+  "foot.nl.name": {
+    "en": "Name and surname",
+    "sk": "Meno a priezvisko",
+    "es": "Nombre y apellidos"
+  },
+  "foot.nl.email": {
+    "en": "E-mail",
+    "sk": "E-mail",
+    "es": "Correo electrónico"
+  },
+  "foot.nl.consent.pre": {
+    "en": "I agree to share my email and name with this website to receive news about competitions, games, offers and products. More information about our privacy policy ",
+    "sk": "Súhlasím so zdieľaním svojho e-mailu a mena s touto stránkou, aby som dostával novinky o súťažiach, hrách, ponukách a produktoch. Viac informácií o našich zásadách ochrany osobných údajov ",
+    "es": "Acepto compartir mi correo electrónico y mi nombre con este sitio web para recibir noticias sobre concursos, juegos, ofertas y productos. Puede encontrar más información sobre nuestra política de privacidad "
+  },
+  "foot.nl.consent.link": {
+    "en": "can be found here",
+    "sk": "nájdete tu",
+    "es": "aquí"
+  },
+  "foot.nl.btn": {
+    "en": "Subscribe",
+    "sk": "Odoberať",
+    "es": "Suscribirse"
+  },
+  "foot.nav.how": {
+    "en": "How it works",
+    "sk": "Ako to funguje",
+    "es": "Cómo funciona"
+  },
+  "foot.nav.faq": {
+    "en": "FAQ",
+    "sk": "FAQ",
+    "es": "Preguntas frecuentes"
+  },
+  "foot.nav.start": {
+    "en": "How to start your auctions?",
+    "sk": "Ako začať s aukciami?",
+    "es": "¿Cómo iniciar sus subastas?"
+  },
+  "foot.nav.about": {
+    "en": "About us",
+    "sk": "O nás",
+    "es": "Sobre nosotros"
+  },
+  "foot.nav.contact": {
+    "en": "Contact",
+    "sk": "Kontakt",
+    "es": "Contacto"
+  },
+  "foot.legal.terms": {
+    "en": "Terms & Conditions",
+    "sk": "Obchodné podmienky",
+    "es": "Términos y condiciones"
+  },
+  "foot.legal.privacy": {
+    "en": "Privacy policy",
+    "sk": "Ochrana osobných údajov",
+    "es": "Política de privacidad"
+  },
+  "foot.legal.credits": {
+    "en": "Credit to the pictures authors",
+    "sk": "Poďakovanie autorom fotografií",
+    "es": "Créditos a los autores de las imágenes"
+  },
+  "foot.support.title": {
+    "en": "Customer support",
+    "sk": "Zákaznícka podpora",
+    "es": "Atención al cliente"
+  },
+  "foot.support.pre": {
+    "en": "Need help? Check out our ",
+    "sk": "Potrebujete pomoc? Pozrite si naše ",
+    "es": "¿Necesita ayuda? Consulte nuestras "
+  },
+  "foot.support.faq": {
+    "en": "FAQ",
+    "sk": "FAQ",
+    "es": "preguntas frecuentes"
+  },
+  "foot.support.mid1": {
+    "en": ", send us an ",
+    "sk": ", napíšte nám ",
+    "es": ", envíenos un "
+  },
+  "foot.support.email": {
+    "en": "email",
+    "sk": "e-mail",
+    "es": "correo"
+  },
+  "foot.support.mid2": {
+    "en": " or contact our customer support team through ",
+    "sk": " alebo kontaktujte náš tím podpory cez ",
+    "es": " o contacte con nuestro equipo de soporte por "
+  },
+  "foot.support.wa": {
+    "en": "WhatsApp",
+    "sk": "WhatsApp",
+    "es": "WhatsApp"
+  },
+  "foot.support.post": {
+    "en": " or Live Chat.",
+    "sk": " alebo Live Chat.",
+    "es": " o chat en directo."
+  },
+  "foot.support.sla": {
+    "en": "We typically respond within 24 hours.",
+    "sk": "Zvyčajne odpovedáme do 24 hodín.",
+    "es": "Normalmente respondemos en 24 horas."
+  },
+  "notes.show": {
+    "en": "Show design notes",
+    "sk": "Zobraziť dizajnové poznámky",
+    "es": "Mostrar notas de diseño"
+  },
+  "notes.hide": {
+    "en": "Hide design notes",
+    "sk": "Skryť dizajnové poznámky",
+    "es": "Ocultar notas de diseño"
+  },
+  "notes.1": {
+    "en": "1 · Intent split — routes the lead & adapts the form",
+    "sk": "1 · Rozdelenie zámeru — smeruje lead a prispôsobuje formulár",
+    "es": "1 · División por intención: dirige el lead y adapta el formulario"
+  },
+  "notes.2": {
+    "en": "2 · One form, two shapes — qualifying fields only for B2B",
+    "sk": "2 · Jeden formulár, dve podoby — kvalifikačné polia len pre B2B",
+    "es": "2 · Un formulario, dos formas: campos de calificación solo para B2B"
+  },
+  "notes.3": {
+    "en": "3 · Instant channels surfaced, not buried in the footer",
+    "sk": "3 · Okamžité kanály na očiach, nie schované v pätičke",
+    "es": "3 · Canales directos a la vista, no escondidos en el pie de página"
+  }
+}
