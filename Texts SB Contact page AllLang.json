@@ -1,0 +1,397 @@
+{
+  "meta.title": {
+    "en": "Contact — SPORTSBID",
+    "sk": "Kontakt — SPORTSBID",
+    "es": "Contacto — SPORTSBID"
+  },
+  "hero.title": {
+    "en": "Let’s talk",
+    "sk": "Poďme sa porozprávať",
+    "es": "Hablemos"
+  },
+  "hero.lede": {
+    "en": "Whether you want your own auction portal or just have a question about an item — you’re in the right place.",
+    "sk": "Či už chcete vlastný aukčný portál, alebo máte len otázku k položke — ste na správnom mieste.",
+    "es": "Tanto si desea su propio portal de subastas como si solo tiene una pregunta sobre un artículo, está en el lugar correcto."
+  },
+  "hero.sla": {
+    "en": "We reply within 24 hours, Mon–Fri",
+    "sk": "Odpovieme do 24 hodín, po–pi",
+    "es": "Respondemos en 24 horas, lun–vie"
+  },
+  "chooser.legend": {
+    "en": "What brings you here?",
+    "sk": "Čo vás k nám privádza?",
+    "es": "¿Qué le trae por aquí?"
+  },
+  "path.b2b.title": {
+    "en": "I represent a club or organization",
+    "sk": "Zastupujem klub alebo organizáciu",
+    "es": "Represento a un club u organización"
+  },
+  "path.b2b.desc": {
+    "en": "Sports club, charity, NGO, agency or sponsor. You want to run auctions and raise funds.",
+    "sk": "Športový klub, charita, NGO, agentúra alebo sponzor. Chcete organizovať aukcie a získavať prostriedky.",
+    "es": "Club deportivo, organización benéfica, ONG, agencia o patrocinador. Quiere organizar subastas y recaudar fondos."
+  },
+  "path.gen.title": {
+    "en": "I have a general question",
+    "sk": "Mám všeobecnú otázku",
+    "es": "Tengo una pregunta general"
+  },
+  "path.gen.desc": {
+    "en": "About an auction, an order, delivery, authenticity, or anything else.",
+    "sk": "O aukcii, objednávke, doručení, pravosti alebo o čomkoľvek inom.",
+    "es": "Sobre una subasta, un pedido, la entrega, la autenticidad o cualquier otra cosa."
+  },
+  "value.1": {
+    "en": "First auction live in 48 hours",
+    "sk": "Prvá aukcia spustená do 48 hodín",
+    "es": "Primera subasta en directo en 48 horas"
+  },
+  "value.2": {
+    "en": "Full service — we photograph, list, sell & ship",
+    "sk": "Full servis — nafotíme, zverejníme, predáme a odošleme",
+    "es": "Servicio completo: fotografiamos, publicamos, vendemos y enviamos"
+  },
+  "value.3": {
+    "en": "Every auction may support your charity, NGO or junior academy",
+    "sk": "Každá aukcia môže podporiť vašu charitu, NGO alebo mládežnícku akadémiu",
+    "es": "Cada subasta puede apoyar a su organización benéfica, ONG o academia juvenil"
+  },
+  "form.b2b.title": {
+    "en": "Tell us about your organization",
+    "sk": "Povedzte nám o vašej organizácii",
+    "es": "Cuéntenos sobre su organización"
+  },
+  "form.b2b.sub": {
+    "en": "The more we know, the more concrete our first reply will be.",
+    "sk": "Čím viac vieme, tým konkrétnejšia bude naša prvá odpoveď.",
+    "es": "Cuanto más sepamos, más concreta será nuestra primera respuesta."
+  },
+  "form.gen.title": {
+    "en": "How can we help?",
+    "sk": "Ako vám môžeme pomôcť?",
+    "es": "¿Cómo podemos ayudarle?"
+  },
+  "form.gen.sub": {
+    "en": "Give us a few details and we’ll point you to the right person.",
+    "sk": "Uveďte pár detailov a nasmerujeme vás na správneho človeka.",
+    "es": "Indíquenos algunos detalles y le dirigiremos a la persona adecuada."
+  },
+  "form.optional": {
+    "en": "(optional)",
+    "sk": "(nepovinné)",
+    "es": "(opcional)"
+  },
+  "form.name.label": {
+    "en": "Full name",
+    "sk": "Meno a priezvisko",
+    "es": "Nombre y apellidos"
+  },
+  "form.email.label": {
+    "en": "Email",
+    "sk": "E-mail",
+    "es": "Correo electrónico"
+  },
+  "form.org.label": {
+    "en": "Organization",
+    "sk": "Organizácia",
+    "es": "Organización"
+  },
+  "form.orgtype.label": {
+    "en": "Type of organization",
+    "sk": "Typ organizácie",
+    "es": "Tipo de organización"
+  },
+  "form.web.label": {
+    "en": "Website",
+    "sk": "Webová stránka",
+    "es": "Sitio web"
+  },
+  "form.role.label": {
+    "en": "Your role",
+    "sk": "Vaša pozícia",
+    "es": "Su cargo"
+  },
+  "form.role.ph": {
+    "en": "Marketing Director",
+    "sk": "Marketingový riaditeľ",
+    "es": "Director de Marketing"
+  },
+  "form.topic.label": {
+    "en": "What is it about?",
+    "sk": "Čoho sa to týka?",
+    "es": "¿Sobre qué es?"
+  },
+  "form.message.label": {
+    "en": "Message",
+    "sk": "Správa",
+    "es": "Mensaje"
+  },
+  "form.select.ph": {
+    "en": "Please select…",
+    "sk": "Vyberte…",
+    "es": "Seleccione…"
+  },
+  "form.message.ph.b2b": {
+    "en": "Tell us what you have and who your audience is — e.g. ‘We have 20 signed jerseys and 40k followers, and we fundraise for a children’s hospital.’",
+    "sk": "Napíšte nám, čo máte a kto je vaše publikum — napr. „Máme 20 podpísaných dresov a 40-tisíc fanúšikov a zbierame pre detskú nemocnicu.“",
+    "es": "Cuéntenos qué tiene y quién es su público; por ejemplo: «Tenemos 20 camisetas firmadas y 40 000 seguidores, y recaudamos fondos para un hospital infantil»."
+  },
+  "form.message.ph.gen": {
+    "en": "Describe your question. If it’s about an order or an item, include the item name or order number.",
+    "sk": "Opíšte svoju otázku. Ak sa týka objednávky alebo položky, uveďte názov položky alebo číslo objednávky.",
+    "es": "Describa su pregunta. Si se trata de un pedido o un artículo, incluya el nombre del artículo o el número de pedido."
+  },
+  "form.orgtype.1": {
+    "en": "Sports club",
+    "sk": "Športový klub",
+    "es": "Club deportivo"
+  },
+  "form.orgtype.2": {
+    "en": "Charity / foundation",
+    "sk": "Charita / nadácia",
+    "es": "Organización benéfica / fundación"
+  },
+  "form.orgtype.3": {
+    "en": "NGO / non-profit",
+    "sk": "NGO / nezisková organizácia",
+    "es": "ONG / sin ánimo de lucro"
+  },
+  "form.orgtype.4": {
+    "en": "Sports agency",
+    "sk": "Športová agentúra",
+    "es": "Agencia deportiva"
+  },
+  "form.orgtype.5": {
+    "en": "Sponsor / brand",
+    "sk": "Sponzor / značka",
+    "es": "Patrocinador / marca"
+  },
+  "form.orgtype.6": {
+    "en": "Individual collector",
+    "sk": "Súkromný zberateľ",
+    "es": "Coleccionista particular"
+  },
+  "form.orgtype.7": {
+    "en": "Other",
+    "sk": "Iné",
+    "es": "Otro"
+  },
+  "form.topic.1": {
+    "en": "An auction or a bid",
+    "sk": "Aukcia alebo príhoz",
+    "es": "Una subasta o una puja"
+  },
+  "form.topic.2": {
+    "en": "My order or delivery",
+    "sk": "Moja objednávka alebo doručenie",
+    "es": "Mi pedido o entrega"
+  },
+  "form.topic.3": {
+    "en": "Authenticity / certificate of an item",
+    "sk": "Pravosť / certifikát položky",
+    "es": "Autenticidad / certificado de un artículo"
+  },
+  "form.topic.4": {
+    "en": "Payments or refunds",
+    "sk": "Platby alebo vrátenie peňazí",
+    "es": "Pagos o reembolsos"
+  },
+  "form.topic.5": {
+    "en": "My account",
+    "sk": "Môj účet",
+    "es": "Mi cuenta"
+  },
+  "form.topic.6": {
+    "en": "Press or partnerships",
+    "sk": "Médiá alebo partnerstvá",
+    "es": "Prensa o colaboraciones"
+  },
+  "form.topic.7": {
+    "en": "Something else",
+    "sk": "Niečo iné",
+    "es": "Otra cosa"
+  },
+  "form.err.name": {
+    "en": "Please enter your name",
+    "sk": "Zadajte svoje meno",
+    "es": "Introduzca su nombre"
+  },
+  "form.err.email": {
+    "en": "Please enter a valid email address",
+    "sk": "Zadajte platnú e-mailovú adresu",
+    "es": "Introduzca una dirección de correo válida"
+  },
+  "form.err.topic": {
+    "en": "Please choose a topic",
+    "sk": "Vyberte tému",
+    "es": "Seleccione un tema"
+  },
+  "form.err.message": {
+    "en": "Please write us a short message",
+    "sk": "Napíšte nám krátku správu",
+    "es": "Escríbanos un mensaje breve"
+  },
+  "form.consent.pre": {
+    "en": "I agree to the processing of my personal data in accordance with the ",
+    "sk": "Súhlasím so spracovaním svojich osobných údajov v súlade so ",
+    "es": "Acepto el tratamiento de mis datos personales de acuerdo con la "
+  },
+  "form.consent.link": {
+    "en": "Privacy Policy",
+    "sk": "Zásadami ochrany osobných údajov",
+    "es": "Política de privacidad"
+  },
+  "form.btn.b2b": {
+    "en": "Request a call back",
+    "sk": "Požiadať o spätné volanie",
+    "es": "Solicitar que le llamemos"
+  },
+  "form.btn.gen": {
+    "en": "Send message",
+    "sk": "Odoslať správu",
+    "es": "Enviar mensaje"
+  },
+  "form.note.b2b": {
+    "en": "No commitment — a real person reads every message.",
+    "sk": "Bez záväzku — každú správu číta skutočný človek.",
+    "es": "Sin compromiso: cada mensaje lo lee una persona real."
+  },
+  "form.note.gen": {
+    "en": "Most questions are answered the same working day.",
+    "sk": "Väčšinu otázok zodpovieme ešte v ten istý pracovný deň.",
+    "es": "La mayoría de las preguntas se responden el mismo día laborable."
+  },
+  "success.title": {
+    "en": "Message sent — thank you!",
+    "sk": "Správa odoslaná — ďakujeme!",
+    "es": "Mensaje enviado. ¡Gracias!"
+  },
+  "success.msg.b2b": {
+    "en": "We’ve received your request and someone from the sales team will get back to you within 24 hours.",
+    "sk": "Prijali sme vašu požiadavku a niekto z obchodného tímu sa vám ozve do 24 hodín.",
+    "es": "Hemos recibido su solicitud y alguien del equipo comercial se pondrá en contacto con usted en 24 horas."
+  },
+  "success.msg.gen": {
+    "en": "We’ve received your question. Our support team typically replies the same working day.",
+    "sk": "Prijali sme vašu otázku. Náš tím podpory zvyčajne odpovedá ešte v ten istý pracovný deň.",
+    "es": "Hemos recibido su pregunta. Nuestro equipo de soporte suele responder el mismo día laborable."
+  },
+  "success.next.label": {
+    "en": "What happens next",
+    "sk": "Čo bude nasledovať",
+    "es": "Qué ocurre a continuación"
+  },
+  "success.next.b2b": {
+    "en": "A short intro call to understand what you want to auction — then we prepare a plan and a quote. If it fits, your first auction can be live within 48 hours.",
+    "sk": "Krátky úvodný hovor, aby sme pochopili, čo chcete dražiť — potom pripravíme plán a cenovú ponuku. Ak to bude sedieť, vaša prvá aukcia môže byť spustená do 48 hodín.",
+    "es": "Una breve llamada inicial para entender qué desea subastar y, a continuación, preparamos un plan y un presupuesto. Si encaja, su primera subasta puede estar en directo en 48 horas."
+  },
+  "success.next.gen": {
+    "en": "If your question is urgent, you can also reach us on WhatsApp at +1 416 717 4046 for a faster answer.",
+    "sk": "Ak je vaša otázka naliehavá, môžete nás pre rýchlejšiu odpoveď kontaktovať aj cez WhatsApp na čísle +1 416 717 4046.",
+    "es": "Si su pregunta es urgente, también puede escribirnos por WhatsApp al +1 416 717 4046 para obtener una respuesta más rápida."
+  },
+  "success.reset": {
+    "en": "Send another message",
+    "sk": "Odoslať ďalšiu správu",
+    "es": "Enviar otro mensaje"
+  },
+  "side.ch.title": {
+    "en": "Need an answer right now?",
+    "sk": "Potrebujete odpoveď hneď?",
+    "es": "¿Necesita una respuesta ahora?"
+  },
+  "side.ch.sub": {
+    "en": "Skip the form — reach us directly.",
+    "sk": "Preskočte formulár — kontaktujte nás priamo.",
+    "es": "Omita el formulario y contáctenos directamente."
+  },
+  "side.ch.sales": {
+    "en": "Sales enquiries",
+    "sk": "Obchodné otázky",
+    "es": "Consultas comerciales"
+  },
+  "side.ch.call": {
+    "en": "Call us",
+    "sk": "Zavolajte nám",
+    "es": "Llámenos"
+  },
+  "side.ch.faq": {
+    "en": "Browse the FAQ",
+    "sk": "Prezrite si FAQ",
+    "es": "Consulte las preguntas frecuentes"
+  },
+  "side.ch.faq.sub": {
+    "en": "Most answers are already there",
+    "sk": "Väčšina odpovedí je už tam",
+    "es": "Allí ya están la mayoría de las respuestas"
+  },
+  "side.rep.title": {
+    "en": "Sales representatives",
+    "sk": "Obchodní zástupcovia",
+    "es": "Representantes comerciales"
+  },
+  "side.rep.sub": {
+    "en": "Talk directly to the person who covers your region.",
+    "sk": "Hovorte priamo s človekom, ktorý má na starosti váš región.",
+    "es": "Hable directamente con la persona que cubre su región."
+  },
+  "side.rep.regions": {
+    "en": "Regions covered",
+    "sk": "Pokryté regióny",
+    "es": "Regiones cubiertas"
+  },
+  "side.rep.region.1": {
+    "en": "Europe",
+    "sk": "Európa",
+    "es": "Europa"
+  },
+  "side.rep.region.2": {
+    "en": "North America",
+    "sk": "Severná Amerika",
+    "es": "América del Norte"
+  },
+  "side.rep.region.3": {
+    "en": "Canada",
+    "sk": "Kanada",
+    "es": "Canadá"
+  },
+  "side.rep.region.4": {
+    "en": "Latin America",
+    "sk": "Latinská Amerika",
+    "es": "América Latina"
+  },
+  "side.rep.region.5": {
+    "en": "Middle East",
+    "sk": "Blízky východ",
+    "es": "Oriente Medio"
+  },
+  "side.rep.region.6": {
+    "en": "Africa",
+    "sk": "Afrika",
+    "es": "África"
+  },
+  "side.office.title": {
+    "en": "Our office",
+    "sk": "Naša kancelária",
+    "es": "Nuestra oficina"
+  },
+  "side.office.sub": {
+    "en": "SPORTSBID is owned and operated by",
+    "sk": "SPORTSBID vlastní a prevádzkuje",
+    "es": "SPORTSBID es propiedad de y está gestionado por"
+  },
+  "side.office.maps": {
+    "en": "Open in Google Maps",
+    "sk": "Otvoriť v Google Mapách",
+    "es": "Abrir en Google Maps"
+  },
+  "side.office.alt": {
+    "en": "Entrance of 333 Bay Street office tower, Toronto",
+    "sk": "Vchod do kancelárskej budovy na 333 Bay Street, Toronto",
+    "es": "Entrada del edificio de oficinas 333 Bay Street, Toronto"
+  }
+}

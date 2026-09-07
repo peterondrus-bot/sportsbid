@@ -694,13 +694,13 @@ var I18N = (function () {
   }
 
   /* Copy is split across two files:
-       sportsbid-texts.json — the page's own content
+       Texts SB Contact page AllLang.json — the page's own content
        text-others.json     — header, menu, footer, design notes
      Both are merged into one dictionary. If one fails the other still applies. */
-  var FILES = ['sportsbid-texts.json', 'text-others.json'];
+  var FILES = ['Texts SB Contact page AllLang.json', 'text-others.json'];
 
   function fetchOne(file) {
-    return fetch(file, { cache: 'no-cache' })
+    return fetch(encodeURI(file), { cache: 'no-cache' })
       .then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
